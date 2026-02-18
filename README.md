@@ -1,6 +1,13 @@
 # Cloud Support Dashboard
 
 🚀 **Live Demo:** http://3.149.5.217
+## Screenshots
+
+**Homepage**
+![Homepage](screenshots/homepage.png)
+
+**Live Health Endpoint**
+![Status](screenshots/status.png)
 
 ## Architecture
 
